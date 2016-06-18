@@ -84,9 +84,9 @@ if you want to install with linux repositories.
 
 Scrapy:
 
-    http://doc.scrapy.org/en/0.24/
+   http://doc.scrapy.org/en/0.24/
 
 Dublin Core:
 
-    http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1024-94352006000400009
+   http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1024-94352006000400009
 
