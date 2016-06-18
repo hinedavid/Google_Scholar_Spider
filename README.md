@@ -76,6 +76,8 @@ Dependency of script are Scrapy and yaml (for unicode handling). Both can be dow
   
     pip install pyyaml
 
+if you want to install with linux repositories.
+
     $ sudo apt-get install python-yaml
   
     $ sudo yum install python-yaml
