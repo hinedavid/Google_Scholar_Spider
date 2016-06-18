@@ -35,19 +35,33 @@ Program obtained the results links from googleScholar main page, and each links 
 Dublin Core Sintaxis example:
 
 <META NAME="DC.Title "CONTENT=" 
+
 <META NAME="DC.Creatorr "CONTENT=" 
+
 <META NAME="DC.Subject "CONTENT=" 
+
 <META NAME="DC.Description "CONTENT=" 
+
 <META NAME="DC.Publisher "CONTENT=" 
+
 <META NAME="DC.Contributor "CONTENT=" 
+
 <META NAME="DC.Date" CONTENT=" 
+
 <META NAME="DC.Coverage "CONTENT=" 
+
 <META NAME="DC.Format "CONTENT=" 
+
 <META NAME="DC.Identifier"CONTENT=" 
+
 <META NAME="DC.Fuente "CONTENT=" 
+
 <META NAME="DC.Language "CONTENT=" 
+
 <META NAME="DC. type "CONTENT=" 
+
 <META NAME="DC.Relation "CONTENT=" 
+
 <META NAME="DC.Rights "CONTENT="
 
 
