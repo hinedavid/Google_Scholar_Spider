@@ -3,7 +3,7 @@
 
 googleScholar_spider
 
-It's a Program based in google_search_module developed by: 
+It's a Program based on google_search_module developed by: 
 Author: Tan Kok Hua (Guohua tan)
 Email: spider123@gmail.com
 More information can be obtained from: http://wp.me/p4nnkg-1i
