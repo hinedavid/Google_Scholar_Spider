@@ -50,6 +50,15 @@ Dublin Core Sintaxis example:
 
 Dependency of script are Scrapy and yaml (for unicode handling). Both can be downloaded using PIP.
 
+pip install Scrapy
+
+
+pip search yaml
+pip install pyyaml
+
+$ sudo apt-get install python-yaml
+$ sudo yum install python-yaml
+
  Scripts is divided into 2 parts. The main script for running is from Google_Scholar.py The get_google_link_results.py is the scrapy spider for crawling either the google Scholar search page or individual websites. 
 
 ##Support & Documentation
