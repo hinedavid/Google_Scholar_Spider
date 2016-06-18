@@ -86,6 +86,7 @@ Scrapy:
 
     http://doc.scrapy.org/en/0.24/
 
-Dubli Core Syntax:
+Dublin Core:
+
     http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1024-94352006000400009
 
