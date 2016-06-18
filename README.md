@@ -9,8 +9,8 @@ Email: spider123@gmail.com
 More information can be obtained from: http://wp.me/p4nnkg-1i
 
 
-Modified by:
-Author: David Hine
+ Modified by:k \n
+Author: David Hine \n
 Email:david@hine.co.cr
 
 
