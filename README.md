@@ -3,9 +3,6 @@
 ====================
  
  
-##About 
-
-googleScholar_spider
 
 It's a Program based on google_search_module developed by: 
 
@@ -32,7 +29,7 @@ Retrieve Google Scholar results using python and Scrapy
 
 Program obtained the results links from googleScholar main page, and each links are run separately using Scrapy. googleScholar_spider add the posibility to extract metadata such as: Author, Publisher, date; using Google & Dublin Core standard.
 
-Dublin Core Sintaxis example:
+Dublin Core Syntax example:
 
     <META NAME="DC.Title "CONTENT=" 
 
@@ -89,7 +86,7 @@ Scrapy:
 
     http://doc.scrapy.org/en/0.24/
 
-Dubli Core Sintaxis:
+Dubli Core Syntax:
 
     http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1024-94352006000400009
 
