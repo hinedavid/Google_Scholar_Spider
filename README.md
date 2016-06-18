@@ -71,7 +71,6 @@ Dependency of script are Scrapy and yaml (for unicode handling). Both can be dow
 
     pip install Scrapy
 
-
     pip search yaml
   
     pip install pyyaml
