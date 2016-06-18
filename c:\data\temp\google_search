@@ -1,0 +1,12 @@
+{
+    "type_of_parse": "general", 
+    "Domain": [], 
+    "Name": "random target website", 
+    "SearchUrl": [
+        "https://www.researchgate.net/profile/Howard_Yang4/publication/2611505_A_New_Learning_Algorithm_for_Blind_Signal_Separation/links/0046351a8c5dc03758000000.pdf", 
+        "http://repository.dl.itc.u-tokyo.ac.jp/dspace/handle/2261/1558", 
+        "https://books.google.com/books?hl=en&lr=&id=EcVC3lfieCsC&oi=fnd&pg=PT3&dq=tokyo+go&ots=oyN2Jg8oiD&sig=3iM2gTsp76bgOw0bMv0gZ5MwixQ", 
+        "http://onlinelibrary.wiley.com/doi/10.1002/anie.200390235/full", 
+        "http://journals.lww.com/transplantjournal/Abstract/2005/07150/Early_Immune_Reaction_after_Reduced_Intensity.8.aspx"
+    ]
+}
