@@ -65,7 +65,7 @@ Dublin Core Sintaxis example:
     <META NAME="DC.Rights "CONTENT="
 
 
-## Instalation & Configuration
+## Installation & Configuration
 
 Dependency of script are Scrapy and yaml (for unicode handling). Both can be downloaded using PIP.
 
