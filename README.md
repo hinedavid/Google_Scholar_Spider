@@ -1,4 +1,8 @@
  
+ googleScholar_spider
+====================
+ 
+ 
 ##About 
 
 googleScholar_spider
@@ -19,10 +23,6 @@ Author: David Hine
 Email:david@hine.co.cr
 
 
-googleScholar_spider
-====================
-
-
 
 
 ## General Information
@@ -34,49 +34,51 @@ Program obtained the results links from googleScholar main page, and each links 
 
 Dublin Core Sintaxis example:
 
-<META NAME="DC.Title "CONTENT=" 
+  <META NAME="DC.Title "CONTENT=" 
 
-<META NAME="DC.Creatorr "CONTENT=" 
+  <META NAME="DC.Creatorr "CONTENT=" 
 
-<META NAME="DC.Subject "CONTENT=" 
+  <META NAME="DC.Subject "CONTENT=" 
 
-<META NAME="DC.Description "CONTENT=" 
+  <META NAME="DC.Description "CONTENT=" 
 
-<META NAME="DC.Publisher "CONTENT=" 
+  <META NAME="DC.Publisher "CONTENT=" 
 
-<META NAME="DC.Contributor "CONTENT=" 
+  <META NAME="DC.Contributor "CONTENT=" 
 
-<META NAME="DC.Date" CONTENT=" 
+  <META NAME="DC.Date" CONTENT=" 
 
-<META NAME="DC.Coverage "CONTENT=" 
+  <META NAME="DC.Coverage "CONTENT=" 
 
-<META NAME="DC.Format "CONTENT=" 
+  <META NAME="DC.Format "CONTENT=" 
 
-<META NAME="DC.Identifier"CONTENT=" 
+  <META NAME="DC.Identifier"CONTENT=" 
 
-<META NAME="DC.Fuente "CONTENT=" 
+  <META NAME="DC.Fuente "CONTENT=" 
 
-<META NAME="DC.Language "CONTENT=" 
+  <META NAME="DC.Language "CONTENT=" 
 
-<META NAME="DC. type "CONTENT=" 
+  <META NAME="DC. type "CONTENT=" 
 
-<META NAME="DC.Relation "CONTENT=" 
+  <META NAME="DC.Relation "CONTENT=" 
 
-<META NAME="DC.Rights "CONTENT="
+  <META NAME="DC.Rights "CONTENT="
 
 
 ## Instalation & Configuration
 
 Dependency of script are Scrapy and yaml (for unicode handling). Both can be downloaded using PIP.
 
-pip install Scrapy
+  pip install Scrapy
 
 
-pip search yaml
-pip install pyyaml
+  pip search yaml
+  
+  pip install pyyaml
 
-$ sudo apt-get install python-yaml
-$ sudo yum install python-yaml
+  $ sudo apt-get install python-yaml
+  
+  $ sudo yum install python-yaml
 
  Scripts is divided into 2 parts. The main script for running is from Google_Scholar.py The get_google_link_results.py is the scrapy spider for crawling either the google Scholar search page or individual websites. 
 
