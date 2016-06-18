@@ -84,9 +84,12 @@ if you want to install with linux repositories.
 
 Scrapy:
 
+Scrapy 0.24 documentation
     http://doc.scrapy.org/en/0.24/
 
-Dubli Core Syntax:
+Dublin Core:
+
+Dublín Core Format
 
     http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1024-94352006000400009
 
