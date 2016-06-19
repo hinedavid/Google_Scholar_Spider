@@ -27,7 +27,7 @@ Email:david@hine.co.cr
 
 Retrieve Google Scholar results using python and Scrapy
 
-Program obtained the results links from googleScholar main page, and each links are run separately using Scrapy. googleScholar_spider add the posibility to extract metadata such as: Author, Publisher, date; using Google & Dublin Core standard.
+Program obtained the results links from googleScholar main page, and each links are run separately using Scrapy. googleScholar_spider adds the posibility to extract metadata such as: Author, Publisher, date; using Google & Dublin Core standard.
 
 Dublin Core Syntax example:
 
