@@ -18,7 +18,7 @@
 import os
 import sys
 import wx
-from Python_Google_Search import gsearch_url_form_class
+from Google_Scholar import gsearch_url_form_class
 
 import Extract_specified_txt_fr_files
 
