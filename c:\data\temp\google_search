@@ -1,0 +1,16 @@
+{
+    "type_of_parse": "google_search", 
+    "Domain": [
+        "scholar.google.com"
+    ], 
+    "Name": "Search", 
+    "SearchUrl": [
+        "https://scholar.google.com/scholar?as_vis=1&q=Hine&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a&channel=fflb&num=100&start=0", 
+        "https://scholar.google.com/scholar?as_vis=1&q=Hine&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a&channel=fflb&num=100&start=20", 
+        "https://scholar.google.com/scholar?as_vis=1&q=Hine&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a&channel=fflb&num=100&start=40", 
+        "https://scholar.google.com/scholar?as_vis=1&q=Hine&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a&channel=fflb&num=100&start=60", 
+        "https://scholar.google.com/scholar?as_vis=1&q=Hine&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a&channel=fflb&num=100&start=80", 
+        "https://scholar.google.com/scholar?as_vis=1&q=Hine&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a&channel=fflb&num=100&start=100", 
+        "https://scholar.google.com/scholar?as_vis=1&q=Hine&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a&channel=fflb&num=100&start=120"
+    ]
+}
